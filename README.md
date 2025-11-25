@@ -33,11 +33,10 @@ lab8_php_database/
 
 ##  Instalasi dan Konfigurasi
 
-### Prasyarat
 
-Pastikan Anda telah menginstal:
+install :
 - XAMPP (Apache & MySQL)
-- Web Browser (Chrome, Firefox, dll)
+- Web Browser 
 - Text Editor (VS Code, Sublime, dll)
 
 ### Langkah Instalasi
