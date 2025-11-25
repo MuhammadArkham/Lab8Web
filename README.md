@@ -263,7 +263,6 @@ table th, table td {
     text-align: left;
 }
 
-/* ... styling lainnya */
 ```
 
 
